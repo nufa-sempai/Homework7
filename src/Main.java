@@ -103,7 +103,7 @@ public class Main {
 //Задание 8
     public static void task8() {
         System.out.println("\nЗадание 8");
-        int currentYear = 2003;
+        int currentYear = 2023;
         int start = currentYear - 200;
         int end = currentYear + 100;
         int period = 79;
